@@ -4,7 +4,6 @@
 The objective of this project was to design and develop a **responsive and visually appealing landing page** using HTML and CSS.  
 This project helped in practicing core web development concepts such as page structure, styling, and responsiveness.
 
----
 
 ## 🛠️ Tools & Technologies Used
 - **HTML5** – For creating the page structure and content.
